@@ -1,2 +1,3 @@
 First commit
 Making a change
+Making an edit to test merge conflict
